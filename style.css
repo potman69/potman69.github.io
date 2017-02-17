@@ -1,9 +1,9 @@
 h1 { font-family: Georgia, serif;
   font-size: 50px;
-  color: red;
+  color: green;
 }
 #city{font-style: italic;
-   color: blue;
+   color: red;
   font-size: 30px;
 }
 #city p{
@@ -12,7 +12,7 @@ h1 { font-family: Georgia, serif;
 }
 #language h1{
   font-style: oblique;
-  color: green;
+  color: red;
 }
 #places h1{
   color: green;
