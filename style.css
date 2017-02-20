@@ -2,23 +2,36 @@ h1 { font-family: Georgia, serif;
   font-size: 50px;
   color: green;
 }
-#city{font-style: italic;
+#city {font-style: italic;
    color: red;
   font-size: 30px;
 }
 #city p{
+  color: black;
   font-size: 20px;
+}
+#city a{
   color: black;
 }
-#language h1{
+#language{
+
+}
+
+#language h2{
   font-style: oblique;
   color: red;
 }
-#places h1{
+#places h2{
   color: green;
 }
 #places p{
   font-size: 20px;
   font-style: italic;
   color: black;
+}
+img{
+border-radius: 100%;
+}
+table, th, td {
+    border: 1px solid black;
 }
